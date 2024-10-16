@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,42 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+/* milestone css */
+img
+{
+   height: 50px;
+   width: 50px;
+}
+
+
+.bton
+{
+  width: 50px;
+  height: 50px;
+}
+.bton:hover
+{
+  transform: scale(0.7);
+  border: none;
+ 
+}
+.dispimg
+{
+  width: 250px;
+  height: 350px;
+}
+.bottom
+{
+   border-bottom: 2px solid black;
+}
+.price-color
+{
+  color: red;
+}
+.button-deco:hover
+{
+  transform: scale(0.9);
 }
